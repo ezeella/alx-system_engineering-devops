@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "U+1F600"
+echo "\"(Ôo)'"
